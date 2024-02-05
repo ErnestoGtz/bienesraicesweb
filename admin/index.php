@@ -46,7 +46,7 @@
       <?php elseif($resultado == 3): ?>
         <p class="alerta exito"> Anuncio Eliminado correctamente</p>
       <?php endif; ?>
-      <a href="/bienesraices2/admin/propiedades/crear.php" class="boton boton-verde-inline">Nueva Propiedad</a>
+      <a href="propiedades/crear.php" class="boton boton-verde-inline">Nueva Propiedad</a>
       <table class="propiedades">
         <thead>
           <tr>
